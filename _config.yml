@@ -3,7 +3,7 @@
 title:            Karl McGuinness
 locale:           en_US
 url:              http://www.karlmcguinness.com
-url:              http://localhost:4000
+#url:              http://localhost:4000
 
 # Jekyll configuration
 
